@@ -1,0 +1,4 @@
+#the following lines are patterns that git will ignore
+*.bam
+*.sam
+*.fastq.gz
